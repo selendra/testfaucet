@@ -1,0 +1,11 @@
+.header {
+  width: 100vw;
+  height: 100px;
+  padding: 10px 0;
+  background-color: #090D28;
+}
+
+.header__logo {
+  width: 44px;
+  height: 66px;
+}
